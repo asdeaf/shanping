@@ -1,0 +1,84 @@
+.box{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background-color: skyblue;
+}
+.car{
+	width: 6.6rem;
+	height: 6rem;
+	margin: 0 auto;
+	margin-top: .75rem;
+}
+.wenzi{
+	width: 5.6rem;
+	height: 2.8rem;
+	margin: 0 auto;
+	margin-top: 2.45rem;
+}
+.wenzishang{
+	width: 3.5rem;
+	height: .7rem;
+	color: #fff;
+	margin: 0 auto;
+}
+.wenzishang span{
+	font-size: .72rem;
+	line-height: .7rem;
+	display: block;
+	float: left;
+}
+.wenzishang span:nth-child(2){
+	font-size: .44rem;
+	display: block;
+	line-height: .9rem;
+}
+.wenzi2{
+	width: 5.6rem;
+	height: .26rem;
+	color: #fff;
+	margin-top: .5rem;
+	font-size: .36rem;
+	font-family: "San Francisco Display";
+	text-align: center;
+	line-height: .26rem;
+}
+.wenzi3{
+	width: 5.6rem;
+	height: .26rem;
+	color: #fff;
+	margin-top: .25rem;
+	font-size: .36rem;
+	font-family: "San Francisco Display";
+	text-align: center;
+	line-height: .26rem;
+}
+.wenzi4{
+	width: 4.3rem;
+	height: .42rem;
+	color: #fff;
+	margin: 0 auto;
+	margin-top: .4rem;
+	font-size: .44rem;
+	font-family: "San Francisco Display";
+	text-align: center;
+	line-height: .42rem;
+}
+.kaishi{
+	width: 3rem;
+	height: .7rem;
+	background-color: #11C4C6;
+	margin: 0 auto;
+	border-radius:.36rem;
+	font-size: .36rem;
+	text-align: center;
+	line-height: .7rem;
+	color: #fff;
+
+}
+
